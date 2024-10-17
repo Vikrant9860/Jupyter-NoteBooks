@@ -1,2 +1,2 @@
 # Jupyter-NoteBooks
-Please suggest Changes if can done
+This Repository Showcase my Data Science and Statistics Practical With Python Labraries Pandas, Matplotlib, Seaborn.
